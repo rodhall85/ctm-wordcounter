@@ -1,0 +1,36 @@
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.App.exe.config
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\Stories\The Railway Children [E Nesbit].txt
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.App.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.App.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.App.exe.CodeAnalysisLog.xml
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.App.exe.lastcodeanalysissucceeded
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.App.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\RodHall.CTMWordCounter.App.Properties.Resources.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\RodHall.CTMWordCounter.App.WordCounter.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.App.csproj.GenerateResource.Cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\RodHall.CTMWordCounter.App.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\RodHall.CTMWordCounter.App.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Data.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Logic.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\RodHall.CTMWordCounter.Logic.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\Stories\The Railway Children [E Nesbit].txt
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.config
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.CodeAnalysisLog.xml
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.lastcodeanalysissucceeded
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Data.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Logic.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Logic.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\CTMWordCounter.App.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.Properties.Resources.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.WordCounter.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\CTMWordCounter.App.csproj.GenerateResource.Cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.pdb

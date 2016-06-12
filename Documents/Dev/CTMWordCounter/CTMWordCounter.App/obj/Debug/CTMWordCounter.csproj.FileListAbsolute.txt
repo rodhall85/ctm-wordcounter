@@ -1,0 +1,14 @@
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.exe.config
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.Properties.Resources.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.csproj.GenerateResource.Cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\CTMWordCounter.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\obj\Debug\RodHall.CTMWordCounter.App.WordCounter.resources
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\Stories\The Railway Children [E Nesbit].txt
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.Tools.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.Tools.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.exe.CodeAnalysisLog.xml
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter\bin\Debug\CTMWordCounter.exe.lastcodeanalysissucceeded

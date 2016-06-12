@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTMWordCounter.App", "CTMWordCounter.App\CTMWordCounter.App.csproj", "{55E20F2D-D2D5-4DC3-9450-0EA928C38146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTMWordCounter.Tests", "CTMWordCounter.Tests\CTMWordCounter.Tests.csproj", "{56E080F1-285E-489A-9CF8-B93E2DEA9EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTMWordCounter.Logic", "CTMWordCounter.Logic\CTMWordCounter.Logic.csproj", "{D08A646E-1594-4B1F-8E2F-DC15C844C3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTMWordCounter.Entities", "CTMWordCounter.Entities\CTMWordCounter.Entities.csproj", "{D30943BF-883A-42FC-AADA-A1EFAAAF6052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTMWordCounter.Data", "CTMWordCounter.Data\CTMWordCounter.Data.csproj", "{90EF348A-CCC0-4A0A-8FFC-0F0843F9B2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E20F2D-D2D5-4DC3-9450-0EA928C38146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E20F2D-D2D5-4DC3-9450-0EA928C38146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E20F2D-D2D5-4DC3-9450-0EA928C38146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E20F2D-D2D5-4DC3-9450-0EA928C38146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E080F1-285E-489A-9CF8-B93E2DEA9EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E080F1-285E-489A-9CF8-B93E2DEA9EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E080F1-285E-489A-9CF8-B93E2DEA9EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E080F1-285E-489A-9CF8-B93E2DEA9EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08A646E-1594-4B1F-8E2F-DC15C844C3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08A646E-1594-4B1F-8E2F-DC15C844C3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08A646E-1594-4B1F-8E2F-DC15C844C3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08A646E-1594-4B1F-8E2F-DC15C844C3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30943BF-883A-42FC-AADA-A1EFAAAF6052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30943BF-883A-42FC-AADA-A1EFAAAF6052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30943BF-883A-42FC-AADA-A1EFAAAF6052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30943BF-883A-42FC-AADA-A1EFAAAF6052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EF348A-CCC0-4A0A-8FFC-0F0843F9B2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF348A-CCC0-4A0A-8FFC-0F0843F9B2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF348A-CCC0-4A0A-8FFC-0F0843F9B2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF348A-CCC0-4A0A-8FFC-0F0843F9B2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

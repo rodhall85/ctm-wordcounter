@@ -1,0 +1,6 @@
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\bin\Debug\RodHall.CTMWordCounter.Entities.dll.CodeAnalysisLog.xml
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\bin\Debug\RodHall.CTMWordCounter.Entities.dll.lastcodeanalysissucceeded
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\obj\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Entities\obj\Debug\RodHall.CTMWordCounter.Entities.pdb

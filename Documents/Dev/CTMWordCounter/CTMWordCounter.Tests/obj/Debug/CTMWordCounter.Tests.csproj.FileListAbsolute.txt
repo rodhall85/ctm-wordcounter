@@ -1,0 +1,15 @@
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\Stories\The Railway Children [E Nesbit].txt
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\FIles\example1.txt
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Tests.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Tests.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.App.exe
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Logic.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Data.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Logic.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.App.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\obj\Debug\CTMWordCounter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\obj\Debug\RodHall.CTMWordCounter.Tests.dll
+C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Tests\obj\Debug\RodHall.CTMWordCounter.Tests.pdb
