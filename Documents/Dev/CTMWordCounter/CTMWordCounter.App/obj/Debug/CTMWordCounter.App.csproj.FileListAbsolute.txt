@@ -34,3 +34,21 @@ C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.C
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\CTMWordCounter.App.csproj.GenerateResource.Cache
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.exe
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.config
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.exe
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\CTMWordCounter.App.csprojResolveAssemblyReference.cache
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.Properties.Resources.resources
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\RodHall.CTMWordCounter.App.WordCounter.resources
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\obj\Debug\CTMWordCounter.App.csproj.GenerateResource.Cache
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\Stories\The Railway Children [E Nesbit].txt
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.CodeAnalysisLog.xml
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.App.exe.lastcodeanalysissucceeded
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Data.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Logic.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.App\bin\Debug\RodHall.CTMWordCounter.Logic.pdb

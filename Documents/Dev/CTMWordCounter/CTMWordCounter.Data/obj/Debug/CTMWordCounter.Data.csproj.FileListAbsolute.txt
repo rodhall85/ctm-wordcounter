@@ -9,3 +9,14 @@ C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\CTMWordCounter.Data.csprojResolveAssemblyReference.cache
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\RodHall.CTMWordCounter.Data.dll
 C:\Users\Rod\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\CTMWordCounter.Data.csprojResolveAssemblyReference.cache
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\RodHall.CTMWordCounter.Data.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\obj\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Data.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Data.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Data.dll.CodeAnalysisLog.xml
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Data.dll.lastcodeanalysissucceeded
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Entities.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Logic.dll
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Entities.pdb
+C:\dev\ctm-wordcounter\Documents\Dev\CTMWordCounter\CTMWordCounter.Data\bin\Debug\RodHall.CTMWordCounter.Logic.pdb
